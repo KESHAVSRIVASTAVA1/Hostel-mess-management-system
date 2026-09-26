@@ -158,7 +158,4 @@ independently. The project fully runs from the command line with no external
 dependencies, meeting all the submission requirements.
 
 ## 11. GitHub Repository Link
-
-`https://github.com/<your-username>/<repo-name>`
-
-*(Fill this in with your actual public repository link before submission.)*
+https://github.com/KESHAVSRIVASTAVA1/Hostel-mess-management-system
